@@ -141,7 +141,7 @@ body {
 .alert {
     position: fixed;
     width: 50%;
-    height: 15%;
+    min-height: 15%;
     background-color: #FB1E42;
     top: 35%;
     left: 25%;
